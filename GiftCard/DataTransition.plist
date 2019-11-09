@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Standard</key>
+	<dict>
+		<key>step2Question</key>
+		<string>Wist je dat er jaarlijks ruim €6.000.000,- euro aan ongebruikte cadeaukaarten wordt weggegooid?</string>
+		<key>step2Title</key>
+		<string>Wil je kopen of verkopen?</string>
+		<key>step1Explain</key>
+		<string>Swipe naar links voor meer uitgelichte cadeaukaarten</string>
+		<key>step1SearchHint</key>
+		<string>Zoeken...</string>
+	</dict>
+</dict>
+</plist>

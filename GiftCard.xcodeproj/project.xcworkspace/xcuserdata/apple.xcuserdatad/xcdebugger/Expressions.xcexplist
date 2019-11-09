@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BriefDetailViewController.uiRefresh():BriefDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selCardInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.layoutSrollImages():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.frame.minY">
+            </PersistentString>
+            <PersistentString
+               value = "self.indicator.frame.minY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.layoutSrollImages() -&gt; ():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "BaseViewController.gSelCardInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AccountViewController.getFacebookUserInfo():AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "lastName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefPaymentViewController.tableView(UITableView, commit : UITableViewCellEditingStyle, forRowAt : IndexPath) -&gt; ():BriefPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "aryCart">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefMainViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:BriefMainViewContorller.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BriefDetailViewController.viewDidLoad() -&gt; ():BriefDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tblIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefMainViewController.didCartTapped(indexPath : IndexPath, button : UIButton) -&gt; ():BriefMainViewContorller.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BriefMainViewController.viewDidLoad() -&gt; ():BriefMainViewContorller.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arySellerInfos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.getFacebookUserInfo():AccountViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.scrollViewTapped(Any) -&gt; ():HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.fetchGetTrendCardsFromServer():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "BaseViewController.gCardTypes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseViewController.setSellerInfo(val : String, key : String, index : Int) -&gt; ():BaseViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.scrollViewDidScroll(_:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "yPos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefDetailViewController.viewDidLoad():BriefDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "BaseViewController.gCardTypes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefPaymentViewController.viewDidLoad():BriefPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "BaseViewController.gCartInfo">
+            </PersistentString>
+            <PersistentString
+               value = "BaseViewController.gCartInfo?.count">
+            </PersistentString>
+            <PersistentString
+               value = "BaseViewController.gCartInfo?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BriefPaymentViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:BriefPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "expandIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in BriefPaymentViewController.fetchGetPaymentStatefromServer():BriefPaymentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cartInfoIds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
